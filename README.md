@@ -1,4 +1,4 @@
-# 🎨 Dynamic UI Editor for Customizable Designs
+# 🎨 Dynamic UI Editor for Customizable Designs Version A (Branch 1 update)
 
 A **React + Vite + TailwindCSS** based **Dynamic UI Editor** that allows users to customize and live-preview UI components in real time — typography, layout, color, spacing, buttons, borders, and more — all without touching code.
 
